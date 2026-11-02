@@ -5,6 +5,8 @@ int main() {
     string istri;
     string suami = "defa";
 
+    cout << "Selamat Datang di verifikasi pasutri\n";
+
     cout << "masukan nama istri anda: ";
     cin >> istri;
 
